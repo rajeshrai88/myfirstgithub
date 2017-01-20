@@ -1,4 +1,4 @@
 # myfirstgithub
 My first repository on GitHub.
 
-i love :coffee: :pizza:, and :dance:.
+I love :coffee:  :pizza:,  and  :dancer:.
